@@ -1,15 +1,30 @@
-#CASO PROGRAMA DE TRANSITABILIDAD
+# Caso: Programa de Transitabilidad
 
-##Descripción del caso
-El Programa de Transitabilidad que desarrolla actualmente el Instituto de Educación Superior Valle Grande, tiene como propósito unir la FORMACIÓN ESCOLAR con la EDUCACIÓN TÉCNICA PROFESIONAL. 
-Permite que los estudiantes de secundaria desarrollen habilidades digitales, pensamiento lógico y competencias tecnológicas mientras continúan sus estudios en el colegio. De esta manera, los jóvenes pueden "transitar de manera natural y acompañada" hacia una carrera técnica al terminar la secundaria.
-Por lo que para promoverlo, se ha realizado una página web que brinda información a los estudiantes acerca de esta opción que puede ayudarlos en un futuro. 
-Dentro de esta página web, se podrá encontrar formularios en los cuales se podrán enviar solicitudes para inscribirse al programa o para establecer un convenio en caso de Instituciones.
-Es por esto que necesitamos crear una base de datos funcional en la que podamos almacenar estos datos.
+## Descripción del caso
+El **Programa de Transitabilidad** desarrollado por el *Instituto de Educación Superior Valle Grande* tiene como propósito unir la **formación escolar** con la **educación técnica profesional**.
 
-##Alcance
-Con esta base de datos esperamos poder obtener un registro ordenado de aquella información relevante que esperamos conseguir para poder realizar las inscripciones al Programa de Transitabilidad.
+Permite que los estudiantes de secundaria desarrollen habilidades digitales, pensamiento lógico y competencias tecnológicas mientras continúan sus estudios en el colegio. De esta manera, los jóvenes pueden *“transitar de manera natural y acompañada”* hacia una carrera técnica al terminar la secundaria.
 
-##Beneficios esperados
-Con la implementación de esta base de datos se busca optimizar y centralizar toda la información relacionada con el Programa de Transitabilidad. 
-Esto permitirá que el Programa de Transitabilidad funcione de forma más organizada, clara y escalable, apoyando su crecimiento y facilitando que más estudiantes puedan acceder a oportunidades de formación técnica.
+Para promoverlo, se ha creado una página web que brinda información a los estudiantes sobre esta oportunidad que puede ayudarlos en su futuro.  
+En esta página web se incluyen formularios que permiten enviar solicitudes para:
+
+- Inscribirse al Programa de Transitabilidad
+- Establecer un convenio (en caso de instituciones)
+
+Por ello, se requiere una base de datos funcional que permita almacenar y gestionar adecuadamente toda esta información.
+
+---
+
+## Alcance
+Con esta base de datos se busca obtener un **registro ordenado y eficiente** de toda la información relevante necesaria para gestionar las inscripciones al Programa de Transitabilidad.
+
+---
+
+## Beneficios esperados
+La implementación de esta base de datos permitirá:
+
+- Optimizar y centralizar la información del Programa de Transitabilidad
+- Mejorar la organización y claridad en los procesos
+- Facilitar la escalabilidad del sistema a medida que el programa crezca
+- Apoyar a que más estudiantes accedan a oportunidades de formación técnica
+
