@@ -45,4 +45,4 @@ La implementación de esta base de datos permitirá:
 ---
 
 # ENLACE DEL VÍDEO EXPLICATIVO
-- 🎬![MIRA EL VÍDEO AQUÍ](https://youtu.be/dmaXG7u3SGY?si=FBOsTF8CjQMWAY9P)
+- [![Miniatura del video](https://img.youtube.com/vi/dmaXG7u3SGY/0.jpg)](https://youtu.be/dmaXG7u3SGY?si=Z1SQ3uwEfo_MMk5X)
